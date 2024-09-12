@@ -6,8 +6,8 @@ This project is a simplified version of a web onboarding funnel created with Rea
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/onboarding-funnel.git
-   cd onboarding-funnel
+   git clone https://git@github.com:TomatoVan/Glam.git
+   cd Glam
    ```
 
 2. Install dependencies:
